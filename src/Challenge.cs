@@ -194,9 +194,9 @@ namespace DesignPatternChallenge
         }
     }
 
-    class Program
+    public class LegacyProgram
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("=== Sistema de Menus CMS ===\n");
 
